@@ -1,0 +1,7 @@
+document.getElementById("");
+document.getElementsBy className();
+			TagName();
+
+combination....
+
+document.queryselector("");
